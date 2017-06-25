@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragment1</string>
+    <string-array name="chapter">
+        <item>Object Oriented Programming System</item>
+        <item>Object</item>
+        <item>Class</item>
+        <item>Inheritance</item>
+        <item>Polymorphism</item>
+        <item>Abstraction</item>
+        <item>Encapsulation</item>
+    </string-array>
+    <string-array name="details">
+        <item> Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies the software development and maintenance by providing some concepts</item>
+        <item>Any entity that has state and behavior is known as an object. For example: chair, pen, table, keyboard, bike etc. It can be physical and logical.</item>
+        <item>Collection of objects is called class. It is a logical entity.</item>
+        <item>When one object acquires all the properties and behaviours of parent object i.e. known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.</item>
+        <item>When one task is performed by different ways i.e. known as polymorphism. For example: to convince the customer differently, to draw something e.g. shape or rectangle etc.</item>
+        <item>Hiding internal details and showing functionality is known as abstraction</item>
+        <item>Binding code and data together into a single unit is known as encapsulation</item>
+    </string-array>
+</resources>
